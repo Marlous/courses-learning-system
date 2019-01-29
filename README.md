@@ -59,7 +59,7 @@
 - [微专业：深度学习工程师（实战）](https://mooc.study.163.com/smartSpec/detail/1001473001.htm)
 
 ## Support - 支持
-由 @ Marlous 整理。
+由 @Marlous 整理。
 
 ### Contact - 联系
 邮箱：Goonecat@foxmail.com
