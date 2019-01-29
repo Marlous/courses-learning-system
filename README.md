@@ -21,21 +21,21 @@
 - [微专业：高级 UI 设计师](https://mooc.study.163.com/smartSpec/detail/1001469004.htm)
 
 4. 技术开发： 
-前端开发：
+- 前端开发：
 - [微专业：初级前端开发工程师](https://mooc.study.163.com/smartSpec/detail/1001360001.htm)
 - [微专业：高级前端开发工程师](https://mooc.study.163.com/smartSpec/detail/1001359002.htm)
 
-后端开发：
+- 后端开发：
 - [微专业：Java 基础入门](https://mooc.study.163.com/smartSpec/detail/1001475001.htm)
 - [微专业：Java 高级开发工程师](https://mooc.study.163.com/smartSpec/detail/1001485004.htm)
 - [微专业：MySQL 数据库工程师](https://mooc.study.163.com/smartSpec/detail/20001.htm)
 
-全栈开发：
+- 全栈开发：
 - [微专业：Python 应用基础](https://mooc.study.163.com/smartSpec/detail/1001415001.htm)
 - [微专业：Python Web 开发工程师](https://mooc.study.163.com/smartSpec/detail/1001180001.htm)
 - [微专业：Java 开发工程师（Web 方向）](https://mooc.study.163.com/smartSpec/detail/85002.htm)
 
-移动开发：
+- 移动开发：
 - [微专业：Android 高级开发工程师](https://mooc.study.163.com/smartSpec/detail/1202810601.htm)
 
 5. 测试：
