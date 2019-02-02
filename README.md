@@ -65,4 +65,4 @@
 邮箱：Goonecat@foxmail.com
 
 ## License - 版权信息
-by Marlous is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.zh).
+by Marlous is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.zh) .
